@@ -16,3 +16,7 @@
 # Third Section Quiz 1
 ![image](https://github.com/GregoryRobetertson/aws-quiz-results/assets/147750592/3b76dc32-2cf2-4bc4-b53a-afe7048d290e)
 
+# Third Section Quiz 2
+![image](https://github.com/GregoryRobetertson/aws-quiz-results/assets/147750592/4ad86628-b34e-4f80-91a4-3964827ef5b6)
+
+
