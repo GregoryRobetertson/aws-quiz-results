@@ -19,4 +19,12 @@
 # Third Section Quiz 2
 ![image](https://github.com/GregoryRobetertson/aws-quiz-results/assets/147750592/4ad86628-b34e-4f80-91a4-3964827ef5b6)
 
+# Section 4 Quiz-1
+![image](https://github.com/GregoryRobetertson/aws-quiz-results/assets/147750592/4ea33975-99c5-4d9c-876b-60f597f7e874)
+
+# Section 4 Quiz-2
+![image](https://github.com/GregoryRobetertson/aws-quiz-results/assets/147750592/e6a29a5f-6cec-489d-bc52-c416baa81293)
+
+
+
 
