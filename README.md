@@ -52,6 +52,35 @@
 # Section 11
 ![image](https://github.com/user-attachments/assets/03f8ca48-de8b-4810-bcae-54e5f23f3a0d)
 
+# Section 12 
+![image](https://github.com/user-attachments/assets/d558d2dc-bc65-4263-96e8-e11a175c1115)
+
+# Section 13
+![image](https://github.com/user-attachments/assets/0cfdfdcf-4d8e-49a7-bcbb-8f9069bafd55)
+
+# Section 14
+![image](https://github.com/user-attachments/assets/50e17675-49e4-43e9-8814-f757a33a57fa)
+
+# Section 15
+![image](https://github.com/user-attachments/assets/a2be2d2a-e62a-4394-a324-38749fbf2e5f)
+
+# Section 16
+![image](https://github.com/user-attachments/assets/c2660403-1a80-455d-ac5b-32fa48bb4286)
+
+# Section 17
+![image](https://github.com/user-attachments/assets/a46595ef-a3bd-4275-bbfd-d820e9b11eb6)
+
+# Section 18
+![image](https://github.com/user-attachments/assets/13afc82c-cf2c-427d-a9bb-d9ba6a4e43bb)
+
+# Section 19
+
+
+
+
+
+
+
 
 
 
