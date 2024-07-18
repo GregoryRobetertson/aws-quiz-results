@@ -46,6 +46,10 @@
 # Section 9
 ![image](https://github.com/user-attachments/assets/5b771545-4b33-49f5-9cb4-e404df3e37b1)
 
+# Section 10
+![image](https://github.com/user-attachments/assets/db426dce-d6e0-43f1-bf6a-944a06484d91)
+
+
 
 
 
