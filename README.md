@@ -43,6 +43,10 @@
 # Section 8 quiz
 ![image](https://github.com/user-attachments/assets/79acd70c-8f39-4579-b058-995d3628b585)
 
+# Section 9
+![image](https://github.com/user-attachments/assets/5b771545-4b33-49f5-9cb4-e404df3e37b1)
+
+
 
 
 
